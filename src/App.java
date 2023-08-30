@@ -8,7 +8,7 @@ public class App {
       System.out.println("testing toString for test: " + test);
       System.out.println("testing toString for test2: " + test2);
       System.out.println(test + " + " + test2 + " equals " + test.add(test2));
-      System.out.println(test + " x " + test2 + " equals " + test.multiply(test2));
+      System.out.println(test + " * " + test2 + " equals " + test.multiply(test2));
     }
 }
 
